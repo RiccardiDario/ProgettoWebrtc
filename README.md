@@ -34,7 +34,7 @@ Per avviare il progetto, segui i seguenti passaggi:
 
 1. **Clona il repository:**
    ```bash
-   git clone https://github.com/tuoutonomerepo/tuoprogetto.git
+   git clone https://github.com/RiccardiDario/ProgettoWebrtc.git
    ```
 2. **Creare un proprio account firebase.**
 3. **Creare un file .env all'interno della cartella principale del progetto. Questo .env dovrà avere la seguente struttura**
