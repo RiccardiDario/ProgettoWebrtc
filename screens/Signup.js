@@ -54,7 +54,7 @@ export default function Signup({ navigation }) {
         onChangeText={(text) => setPassword(text)}
       />
       <TouchableOpacity style={styles.button} onPress={onHandleSignup}>
-        <Text style={styles.TextLogin}> Sign Up</Text>
+        <Text style={styles.TextSignup}> Sign Up</Text>
       </TouchableOpacity>
       <View style={styles.TextAccount}>
         <Text style={styles.TextAAccount}>Don't have an account? </Text>
@@ -77,7 +77,7 @@ const styles = StyleSheet.create({
   form: {flex: 1, justifyContent: 'center', marginHorizontal: 30},
   button:{backgroundColor:'#f57c00',height:58,borderRadius:10,justifyContent:'center',alignItems:'center',
   marginTop: 40},
-  TextLogin: { fontWeight: 'bold', color: '#fff', fontSize: 18},
+  TextSignup: { fontWeight: 'bold', color: '#fff', fontSize: 18},
   TextAccount: {marginTop: 20, flexDirection: 'row', alignItems: 'center', alignSelf: 'center'},
   TextAAccount: {color: 'gray', fontWeight: '600', fontSize: 14},
   TextLogin: {color: '#f57c00', fontWeight: '600', fontSize: 14}
