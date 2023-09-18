@@ -1,4 +1,4 @@
-# Chat-React-Native
+# Chat React-Native
 ## Creazione Progetto
 Di seguito verrà illustrata la procedura che ho seguito per la creazione del mio progetto, così da poterla replicare.
 Per iniziare, è necessario installare Node.js nel sistema. Successivamente, tramite la shell di Visual Studio Code, viene eseguito il seguente comando:
