@@ -38,8 +38,7 @@ export default {
       "STORAGE_BUCKET": process.env.STORAGE_BUCKET,
       "MESSAGING_SENDER_ID": process.env.MESSAGING_SENDER_ID,
       "APP_ID": process.env.APP_ID,
-     },
-     "eas": 
-     {"projectId": "b5e40032-4671-4050-88ee-2a898877c457"}
+      "eas": {"projectId": "b5e40032-4671-4050-88ee-2a898877c457"}
    }
+     }
 }
